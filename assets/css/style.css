@@ -1,1 +1,22 @@
-
+body {
+    background-image: url("https://i.ytimg.com/vi/tTAwUsMPQUg/maxresdefault.jpg");
+}
+.jumbotron {
+    background-color: darkolivegreen;
+    color: rgb(190, 74, 74);
+}
+.panel-body {
+    background-color: darkolivegreen;
+}
+.panel-title {
+    background-color: darkolivegreen;
+}
+.panel-heading {
+    background-color: darkolivegreen;
+}
+tr {
+    background-color: darkolivegreen;
+}
+.col-lg-12 {
+    background-color: darkolivegreen;
+}
